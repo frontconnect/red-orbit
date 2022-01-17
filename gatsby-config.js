@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Red Orbit`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Yaprak Ayazoglu`,
+      summary: `who lives in the Netherlands, programmer by trade, mom. Life is one big interesting place and 
+      I write about how I experience and discover everything around.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Life is one big interesting place. I write about how I experience and discover everything around.`,
+    siteUrl: `https://redorbit.io`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `yaprakaya`,
     },
   },
   plugins: [
